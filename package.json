@@ -1,6 +1,6 @@
 {
   "name": "@alejandro-carlos-samuel/ull-triangle",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Figura triangulo",
   "main": "lib/triangle.js",
   "scripts": {
