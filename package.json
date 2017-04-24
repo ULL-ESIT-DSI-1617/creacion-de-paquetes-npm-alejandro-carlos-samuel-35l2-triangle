@@ -1,0 +1,22 @@
+{
+  "name": "@alejandro-carlos-samuel/ull-triangle",
+  "version": "0.0.0",
+  "description": "Figura triangulo",
+  "main": "lib/triangle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alejandro-carlos-samuel-35l2-triangle.git"
+  },
+  "author": "Alejandro Arzola <alu0100814712@ull.edu.es> (https://aleag.github.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alejandro-carlos-samuel-35l2-triangle/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alejandro-carlos-samuel-35l2-triangle#readme",
+  "dependencies": {
+    "ull-shape-alejandro-carlos-samuel": "^1.0.0"
+  }
+}
