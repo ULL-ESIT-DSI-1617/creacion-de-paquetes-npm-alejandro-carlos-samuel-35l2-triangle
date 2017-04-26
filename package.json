@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alejandro-carlos-samuel-35l2-triangle#readme",
   "dependencies": {
-    "@alejandro-carlos-samuel/ull-shape": "0.0.1",
+    "@alejandro-carlos-samuel/ull-shape": "^0.1.0",
     "mocha": "^3.3.0",
     "should": "^11.2.1"
   },

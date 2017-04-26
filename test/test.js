@@ -1,7 +1,5 @@
 let Shape = require('@alejandro-carlos-samuel/ull-shape');
 let Triangle = require('../lib/triangle.js');
-let assert = require('chai').assert;
-let expect = require('chai').expect;
 
 describe("Shape", function() {
   it("Se crea correctamente el objeto Shape", function() {
